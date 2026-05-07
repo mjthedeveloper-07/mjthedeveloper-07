@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · AI Builder · Teen Entrepreneur from Chennai, India 🇮🇳
 
-[![Instagram](https://img.shields.io/badge/@gmj.webdev.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmj.webdev.chennai)
+[![Instagram](https://img.shields.io/badge/@gmj.forge.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmj.forge.chennai)
 [![Location](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
 [![Pen Name](https://img.shields.io/badge/Author-Jagathratchagan.M%20from%20India-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white)]()
 
@@ -26,7 +26,7 @@ I believe the future belongs to builders who combine **code + AI + systems think
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 🤖 **[AgentOS](https://agentOS.dev)** | AI Agents SaaS — *The Operating System for AI Agents* | Next.js · Node.js · Claude API | 🟡 In Development |
+| 🤖 **[AgentOS]** | AI Agents SaaS — *The Operating System for AI Agents* | Next.js · Node.js · Claude API | 🟡 In Development |
 | 📱 **GM Automations** | Multi-account Instagram automation platform with AI captions | React · Meta Graph API · Node.js | 🟡 In Development |
 | ✍️ **gm_jerk** | Social media scheduler for 7+ platforms with AI + analytics | Next.js 14 · SQLite · Free APIs | 🟢 Running Locally |
 | 🛠️ **Open-Build** | Local-first AI app builder (Lovable.dev alternative) | Tauri · React · Ollama · Express | 🟡 In Development |
@@ -99,7 +99,7 @@ I believe the future belongs to builders who combine **code + AI + systems think
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@gmj.webdev.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmj.webdev.chennai)
+[![Instagram](https://img.shields.io/badge/Instagram-@gmj.forge.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmj.forge.chennai)
 
 *Building in public · Learning every day · Shipping from Chennai 🏙️*
 
