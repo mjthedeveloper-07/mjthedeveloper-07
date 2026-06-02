@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · AI Builder · Teen Entrepreneur from Chennai, India 🇮🇳
 
-[![Instagram](https://img.shields.io/badge/@gmj.forge.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmj.forge.chennai)
+[![Instagram](https://img.shields.io/badge/@_.jagath_mj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://instagram.com/._jagath_mj))
 [![Location](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
 [![Pen Name](https://img.shields.io/badge/Author-Jagathratchagan.M%20from%20India-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white)]()
 
@@ -89,7 +89,7 @@ I believe the future belongs to builders who combine **code + AI + systems think
 ## 📈 Goals
 
 - [ ] Launch **AgentOS** — enterprise AI agents platform
-- [ ] Hit **100K followers** on [@gmj.webdev.chennai](https://instagram.com/gmj.webdev.chennai)
+- [ ] Hit **100K followers** on [jagathratchagan.m](https://instagram.com/._jagath_mj)
 - [ ] Ship **5 revenue-generating products** this year
 - [ ] Automate 80% of my content, research & dev workflows using AI agents
 
@@ -99,7 +99,7 @@ I believe the future belongs to builders who combine **code + AI + systems think
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@gmj.forge.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gmj.forge.chennai)
+[![Instagram](https://img.shields.io/badge/Instagram-@gmj.forge.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/gmj.forge.chennai](https://instagram.com/._jagath_mj))
 
 *Building in public · Learning every day · Shipping from Chennai 🏙️*
 
