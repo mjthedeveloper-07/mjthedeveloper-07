@@ -1,12 +1,22 @@
 <div align="center">
 
-# 👋 Hey, I'm Jagathratchagan.M
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Jagathratchagan.M+%F0%9F%91%8B;Full-Stack+Dev+%C2%B7+AI+Builder;Teen+Entrepreneur+%F0%9F%87%AE%F0%9F%87%B3;Automating+the+Future+from+Chennai" alt="Typing SVG" />
+</h1>
 
-### Full-Stack Developer · AI Builder · Teen Entrepreneur from Chennai, India 🇮🇳
+<a href="https://www.instagram.com/_.jagath_mj" target="_blank">
+  <img src="https://img.shields.io/badge/@_.jagath__mj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://maps.google.com/?q=Chennai">
+  <img src="https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</a>
+<img src="https://img.shields.io/badge/Author-Jagathratchagan.M%20from%20India-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Author"/>
 
-[![Instagram](https://img.shields.io/badge/@_.jagath_mj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://instagram.com/._jagath_mj))
-[![Location](https://img.shields.io/badge/Chennai%2C%20Tamil%20Nadu-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chennai)
-[![Pen Name](https://img.shields.io/badge/Author-Jagathratchagan.M%20from%20India-6C63FF?style=for-the-badge&logo=bookstack&logoColor=white)]()
+<br/><br/>
+
+<a href="https://www.instagram.com/_.jagath_mj" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-%40_.jagath__mj-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" alt="Instagram Follow" />
+</a>
 
 </div>
 
@@ -22,11 +32,26 @@ I believe the future belongs to builders who combine **code + AI + systems think
 
 ---
 
+## ⚡ Automation Is My Superpower
+
+```
+🤖  I build automation systems that work while I sleep
+📱  Social Media Auto-Pilots     → Caption gen · Scheduling · Multi-account mgmt
+🔁  AI Workflow Pipelines        → n8n · Node.js · Claude API · Webhooks
+🧠  Agentic Systems              → ReAct agents · Tool-use · Autonomous loops
+📊  Data Automation              → Scraping · Processing · Dashboard delivery
+📚  KDP Pipeline                 → Automated book creation & publishing (25+ books)
+```
+
+> Follow the automation journey → **[instagram.com/_.jagath_mj](https://www.instagram.com/_.jagath_mj)**
+
+---
+
 ## 🧠 What I'm Building
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| 🤖 **[AgentOS]** | AI Agents SaaS — *The Operating System for AI Agents* | Next.js · Node.js · Claude API | 🟡 In Development |
+| 🤖 **AgentOS** | AI Agents SaaS — *The Operating System for AI Agents* | Next.js · Node.js · Claude API | 🟡 In Development |
 | 📱 **GM Automations** | Multi-account Instagram automation platform with AI captions | React · Meta Graph API · Node.js | 🟡 In Development |
 | ✍️ **gm_jerk** | Social media scheduler for 7+ platforms with AI + analytics | Next.js 14 · SQLite · Free APIs | 🟢 Running Locally |
 | 🛠️ **Open-Build** | Local-first AI app builder (Lovable.dev alternative) | Tauri · React · Ollama · Express | 🟡 In Development |
@@ -89,7 +114,7 @@ I believe the future belongs to builders who combine **code + AI + systems think
 ## 📈 Goals
 
 - [ ] Launch **AgentOS** — enterprise AI agents platform
-- [ ] Hit **100K followers** on [jagathratchagan.m](https://instagram.com/._jagath_mj)
+- [ ] Hit **100K followers** on Instagram → [@_.jagath_mj](https://www.instagram.com/_.jagath_mj)
 - [ ] Ship **5 revenue-generating products** this year
 - [ ] Automate 80% of my content, research & dev workflows using AI agents
 
@@ -99,9 +124,13 @@ I believe the future belongs to builders who combine **code + AI + systems think
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@gmj.forge.chennai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/gmj.forge.chennai](https://instagram.com/._jagath_mj))
+### 📸 Follow My Build Journey on Instagram
 
-*Building in public · Learning every day · Shipping from Chennai 🏙️*
+[![Instagram](https://img.shields.io/badge/Instagram-%40_.jagath__mj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.jagath_mj)
+
+> I post about **AI automation, SaaS builds, agentic workflows, and building in public** — all from Chennai 🏙️
+
+*Building in public · Learning every day · Automating everything · Shipping from Chennai 🇮🇳*
 
 </div>
 
